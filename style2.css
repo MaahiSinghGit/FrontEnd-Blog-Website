@@ -21,3 +21,9 @@ Relative:-
         rem-1 rem = font size of root (html) node
         em=1em =font size of parent
  */
+ #para{
+    font-size: 30px;
+    color: blue;
+    font-weight: bold;
+    
+ }
