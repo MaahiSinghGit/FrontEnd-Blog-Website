@@ -2,4 +2,22 @@
     height: 200px;
     width: 200px;
     background-color: brown;
+    /* red,rgb(12,12,12),rgba(15,15,15,1),#15a15s */
+    border: 2px solid rgb(55, 0, 255);
+    /* width,style,color */
+    border-radius: 22px;
+    
 }
+/* 
+css unit:-
+absolute:-
+        cm
+        in
+        px=1/96in
+Relative:-
+        precentage %
+        vh
+        vw
+        rem-1 rem = font size of root (html) node
+        em=1em =font size of parent
+ */
